@@ -1,0 +1,8 @@
+export const products = [
+  { id: 1, name: "Todmate Heirloom", price: 5.99, unit: "kg", origin: "Petrolina, PE", image: "https://images.unsplash.com/photo-1571680322279-a226e6a4cc2a?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dG9tYXRlaXJvfGVufDB8fDB8fHww" },
+  { id: 2, name: "Pimenta", price: 12.99, unit: "kg", origin: "Mogi das Cruzes, SP", image: "https://plus.unsplash.com/premium_photo-1724256106844-890e02d860a3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { id: 3, name: "Cebola", price: 2.99, unit: "kg", origin: "Caçador, SC", image: "https://images.unsplash.com/photo-1587049276124-b933e057e698?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { id: 4, name: "Abacate", price: 3.49, unit: "kg", origin: "Holambra, SP", image: "https://img.freepik.com/premium-photo/fresh-avocado-isolated-white-background_176402-5029.jpg" },
+  { id: 5, name: "Cenoura", price: 2.49, unit: "kg", origin: "Ibiúna, SP", image: "https://plus.unsplash.com/premium_photo-1724849305175-5b32c26d6ba3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { id: 6, name: "Morango", price: 4.99, unit: "kg", origin: "Atibaia, SP", image: "https://plus.unsplash.com/premium_photo-1724256149016-05c013fe058e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+];
